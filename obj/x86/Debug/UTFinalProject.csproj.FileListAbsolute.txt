@@ -1,0 +1,287 @@
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+C:\Users\Tony\Documents\CPA\MonoGame\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\aim.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\aim.xnb
+C:\Users\utrieu4816\OneDrive - Conestoga College\Game Assignment\UTFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy1.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy1.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\aim.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tony\OneDrive - Conestoga College\Game Assignment\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy1.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\aim.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+D:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+D:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+D:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\shield.xnb
+E:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+E:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+E:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+E:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy1.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\aim.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\shield.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy2.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy3.xnb
+D:\UTFinalProject-2\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\GameOverFont.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy2.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy3.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\GameOverFont.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\explosion.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\shoot.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.wma
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\gameover.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\explosion.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\shoot.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.wma
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.xnb
+E:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\gameover.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\about.xnb
+D:\UTFinalProject-2\UTFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy1.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy2.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy3.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\explosion.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\gameover.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\shoot.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.wma
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\about.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\aim.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\shield.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\GameOverFont.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\Desktop\UTFinalProject-Commented\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy1.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy2.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\Enemies\enemy3.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\about.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\aim.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\redShip.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\shield.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackground.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\explosion.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\gameover.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\shoot.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.wma
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Musics\songBackground.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\GameOverFont.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csprojAssemblyReference.cache
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.csproj.CopyComplete
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.exe
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.pdb
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.exe.manifest
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\bin\Windows\x86\Debug\UTFinalProject.application
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.exe.manifest
+C:\Users\Tony\Desktop\UTrieuFinalProject\UTFinalProject\obj\x86\Debug\UTFinalProject.application
