@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Tony/Desktop/UTrieuFinalProject/UTFinalProject/Content/Musics/gameover.wav</SourceFile>
+  <SourceTime>2018-12-04T22:06:16-05:00</SourceTime>
+  <DestFile>C:/Users/Tony/Desktop/UTrieuFinalProject/UTFinalProject/Content/bin/Windows/Content/Musics/gameover.xnb</DestFile>
+  <DestTime>2018-12-09T11:39:03.3824349-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
